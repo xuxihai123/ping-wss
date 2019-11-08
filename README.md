@@ -1,2 +1,3 @@
-# ping-wss
-test websocket on tls is ok for cloudflare
+# online test websocket tool for websocket over tls
+
+online test websocket tool
